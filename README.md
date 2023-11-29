@@ -46,3 +46,8 @@ https://t.me/c/xxxx/101 - 120
 ```
 
 _note that space in between doesn't matter_
+
+Deploy your bot on `Okteto` [Useless]
+  
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
